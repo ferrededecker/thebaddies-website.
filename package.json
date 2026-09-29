@@ -1,0 +1,8 @@
+{
+  "name": "the-baddies-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Baddies website and shop",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}

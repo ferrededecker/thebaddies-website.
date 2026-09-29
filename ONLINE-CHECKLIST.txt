@@ -1,0 +1,17 @@
+ONLINE CHECKLIST — THE BADDIES
+
+[ ] GitHub bevat index.html, server.js, package.json en SUPABASE-SETUP.sql
+[ ] Supabase-project gemaakt
+[ ] SUPABASE-SETUP.sql uitgevoerd
+[ ] Render Environment: SUPABASE_URL ingevuld
+[ ] Render Environment: SUPABASE_SERVICE_ROLE_KEY ingevuld
+[ ] Render Environment: SUPABASE_ASSETS_BUCKET = site-assets
+[ ] Render opnieuw gedeployed
+[ ] Beheerpagina opent met wachtwoord
+[ ] Tekst gewijzigd en opgeslagen
+[ ] Website in nieuwe browser geopend en wijziging is nog zichtbaar
+[ ] Achtergrond gewijzigd en opgeslagen
+[ ] Website later opnieuw geopend en achtergrond is nog zichtbaar
+[ ] Shop openen/sluiten getest
+[ ] TikTok-link getest
+[ ] Betalingen pas testen nadat Mollie + BASE_URL apart zijn ingesteld
